@@ -1,0 +1,18 @@
+.one {
+	height: 200px;
+	width: 100%;
+}
+.two {
+	background-color: tomato;
+}
+
+#newId {
+	height: 100px;
+	width: 100%;
+	background-color: purple;
+}
+#newId2 {
+	height: 150px;
+	width: 100%;
+	background-color: lime;
+}
